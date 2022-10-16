@@ -1,0 +1,3 @@
+name = "redirect-app"
+main = "src/index.js"
+compatibility_date = "2022-10-16"
