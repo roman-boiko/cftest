@@ -1,4 +1,4 @@
-import Fastify from 'fsastify';
+import Fastify from 'fastify';
 
 const fastify = Fastify({ logger: true });
 
